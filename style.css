@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Krona+One&family=Montserrat:wght@400;500;600&display=swap');
+      </style>
+</head>
+<body>
+    <div class="section1">
+
+        <div class="menu">
+
+            <div class="logo">
+                <img src="svgs/paw logo.svg" alt="lol" width="20">
+                <p>furry match</p>
+            </div>
+
+            <div class="menu-wrapper">
+                <div class="home">home</div>
+                <div class="about-us">about us</div>
+                <div class="premium">premium</div>
+            </div>
+        </div>
+
+        <div class="title">
+            <h1>Find your furry match</h1>
+            <button id="sign up">Sign up</button>
+        </div>
+
+    </div>
+
+    <div class="main">
+        <div>
+            <img src="svgs/furries/furryn1.png" id="furry1" alt="">
+            <img src="svgs/furries/furry3.png" id="furry3" alt="">
+        </div> 
+        
+        <div class="welcome">
+            <p>welcome to furry match.</p>
+            <p>the ultimate dating website for animals</p>
+            <p id="subtext">We Understand That Our Furry Side Needs To Come Out Sometimes And We Have You Covered.</p>
+
+            <div class="features">
+            
+                <div class="breeds">
+                    <img src="svgs/icons/breeds icon.png"  alt="">
+                    <h4>breeds?</h4>
+                    <p>We have recently updated and added more breed selections to our site and we continue to do so through time</p>
+                </div>
+                <div class="companion">
+                    <img src="svgs/icons/heart icon.png" alt="">
+                    <h4>find the perfect companion</h4>
+                    <p>Are you looking for your pawfect furry companion then look no further! With our lovely website website you can meet other mammals like you.</p>
+                </div>
+                <div class="algo">
+                    <img src="svgs/icons/icon algo.png" id="algo"  alt="">
+                    <h4>match based on compability</h4>
+                    <p>we will go through extensive amounts of data that you provide us with to find your pawfect Companion.</p>
+                </div>
+            </div>
+    
+        </div>
+        <div>
+            <img src="svgs/furries/furryn2.png" id="furry2" alt="">
+            <img src="svgs/furries/furry4.png" id="furry4" alt="">
+        </div>
+        <div class="contact-us">
+            <p>Contact us- +44-795-631-6827</p>
+        </div>
+    </div>
+
+    <div class="what-even">
+        <div class="about-us-section">
+            <h4 id="frick1">about us </h4>
+            <p>Welcome to Furry Match, the premier dating website exclusively designed for furries seeking meaningful connections! We understand the unique and vibrant community of furries, and we've created a platform where you can meet like-minded individuals who share your interests, passions, and love for anthropomorphic characters.
+                FurryMatch combines the excitement of online dating with the warm embrace of the furry world. Our user-friendly interface and intuitive features make it easy to navigate and find your perfect match. Whether you're looking for friendship, romance, or a long-term relationship, we're here to help you discover your furry soulmate.
+                Signing up for FurryMatch is a breeze! Simply create a profile that showcases your personality, interests, and what you're looking for in a partner. You can upload photos and provide details about your furry persona, such as your fursona species, hobbies, and favorite conventions or events. Our advanced search filters allow you to narrow down your search and connect with furries who match your specific criteria.
+                Once you've found someone who catches your eye, start the conversation with our messaging system. You can chat, exchange photos, and even engage in video calls to get to know each other better. FurryMatch also offers a variety of fun and interactive features, such as virtual events, forums, and groups, where you can connect with the broader furry community.
+                At FurryMatch, we prioritize the safety and security of our members. Our dedicated team works diligently to ensure a safe and inclusive environment, enforcing strict community guidelines and providing tools to report and block any inappropriate behavior.
+                Whether you're a seasoned furry or new to the fandom, FurryMatch welcomes everyone with open arms. Our community is diverse, accepting, and respectful, fostering an environment where you can express yourself freely and embrace your furry identity.
+                Join FurryMatch today and embark on a furry adventure like no other. Discover meaningful connections, make lifelong friendships, and find love within the furry community. Unleash your inner animal and let FurryMatch be your guide to a world of furry romance!
+            </p>
+        </div>
+
+        <div class="hook-ups">
+            <h4 id="frick">hook ups?</h4>
+            <p>the wild and whimsical dating site tailored exclusively for furries seeking exhilarating encounters! If you're ready to unleash your inner animal and explore your wildest desires, then hold on tight because Furry Match is here to ignite your furry passions!
+                With Furry Match, you can embrace your primal instincts and connect with like-minded furries who are up for some thrilling, no-strings-attached fun. Our platform is designed to bring together adventurous individuals who are ready to let loose and indulge in some steamy encounters within the furry community.
+                Creating an enticing profile on FurFling is a breeze! Unleash your creativity as you describe your fursona, highlighting your unique features and captivating attributes. Share your adventurous side, favorite role-playing scenarios, and what gets your tail wagging. Upload alluring photos that showcase your fursona in its most alluring form and watch as the excitement unfolds!
+                Searching for a fling on Furry Match is an exhilarating experience. Utilize our advanced search filters to find the perfect match who shares your fiery passion for furry fun. Filter by species, kinks, and interests to ensure you discover a like-minded partner who's ready to explore uncharted territories with you.
+                Once you've found a captivating companion, let the sparks fly! Engage in steamy, private chats where you can share your deepest desires, role-play scenarios, and fantasies that will leave your paws trembling. Furry Match also offers a range of interactive features to enhance your experience, such as virtual meetups, adult-themed events, and forums where you can connect with fellow furries who are seeking exhilarating encounters.
+                At Furry Match, we prioritize the privacy and security of our members. Our discreet platform ensures your encounters remain confidential, and we provide robust tools for reporting and blocking any unwanted advances. We want you to feel safe and free to explore your desires without reservation.
+                So, if you're a furry seeking some tantalizing encounters, join Furry Match today and let the wild side of the furry world captivate your senses. Discover thrilling connections, experience unforgettable moments, and let your primal desires run free with Furry Match, the ultimate playground for furry hookups!</p>
+        </div>
+    </div>
+
+</body>
+</html>
